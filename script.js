@@ -1,7 +1,7 @@
 $(function() {
 	//values pulled from query string
-	$('#model').val("vibro1");
-	$('#version').val("2");
+	$('#model').val("RailDefect");
+	$('#version').val("1");
 	$('#api_key').val("C5GwSTpnxtaa8AftKPAN");
 
 	setupButtonListeners();
