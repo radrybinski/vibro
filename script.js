@@ -1,6 +1,6 @@
 $(function() {
 	//values pulled from query string
-	$('#model').val("RailDefect");
+	$('#model').val("raildefect");
 	$('#version').val("1");
 	$('#api_key').val("C5GwSTpnxtaa8AftKPAN");
 
